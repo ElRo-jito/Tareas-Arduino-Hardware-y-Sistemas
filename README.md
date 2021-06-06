@@ -68,3 +68,10 @@ Ejercicio 6: https://www.tinkercad.com/things/jLM52p30Ljq-punto-6
 Ejercicio 7: https://www.tinkercad.com/things/8T152TDjDvZ-punto-7
 
 Video: https://drive.google.com/file/d/1iMpALdAcoqFKmDerX_wZ02-hyH_oW36i/view?usp=sharing
+
+#### Trabajo Práctico 2
+Ejercicio 1: https://www.tinkercad.com/things/1GkwxWxVshn-punto-1-tp2
+
+Ejercicio 2: https://www.tinkercad.com/things/eAB4lxY3tHM-punto-2-tp2
+
+Ejercicio 3: https://www.tinkercad.com/things/jAX1dVi3RpU-punto-3-tp2
