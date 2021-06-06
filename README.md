@@ -51,7 +51,7 @@ Ejercicio 2: https://www.tinkercad.com/things/1mksp7vcbUp-swanky-blad/editel
 
 Ejercicio 4: https://www.tinkercad.com/things/3PlAJSKy84G-cool-jaiks-trug
 
-Ejercicio 5: https://www.tinkercad.com/things/1mksp7vcbUp-swanky-blad
+Ejercicio 5: No lo tengo XD
 
 #### Lavamanos
 tinkercad.com/things/acJ1JEF7QOP-lavamanos
