@@ -1,6 +1,6 @@
 # Tareas-Arduino-Hardware-y-Sistemas
 
-## Desarrollo de Sistemas 
+## Arquitectura de Hardware
 #### Compuertas en Tinkercad
 Ejercicio 2:
 https://www.tinkercad.com/things/1dbj3ljs8He-cool-wluff/editel?sharecode=Gqf51HmXOURGpHv_gl8I4Fj0q3euJKTrFu8Yas48rwY
@@ -33,3 +33,36 @@ https://www.tinkercad.com/things/i7UF9VoRFE4-epic-krunk-snicket/editel?sharecode
 
 Ejercicio 8:
 https://www.tinkercad.com/things/75zn98vTyEf-stunning-jaiks-borwo/editel?sharecode=888oDiSdI5R01EOA2MDyKH-YaDzxATsmehQQm4uPt0k
+
+#### Puerto Serial
+Ejercicio 1: https://www.tinkercad.com/things/k6jDCHxBWGO-ejercicio-1/editel?sharecode=XbafifjxW9r991RytPQiGOFZdOhi1PfEbB1Cjgd4_EM
+
+Ejercicio 2: https://www.tinkercad.com/things/g7gmdGNBs7m-ejercicio-2/editel?sharecode=LQAdylidDB11nAU400JTQtveV-ooqfrEzalaAbmrOvk
+
+Ejercicio 3: https://www.tinkercad.com/things/2Rh1Kj3QpcT-ejercicio-3/editel?sharecode=zFniVG4SsfPToUxQuJ5ezVGyHBVuquxpmmy-NaEoxNY
+
+Ejercicio 4: https://www.tinkercad.com/things/fho7IthKofK-ejercicio-4/editel?sharecode=GIW7TT5dmXav-WWfjQjCHv85ja289T5pYlw9_dd5teM
+(Los links están expirados y no puedo sacar los .ino)
+
+#### Comunicación entre Arduinos
+Ejercicio 1: https://www.tinkercad.com/things/jogEM4WBT3a-hola-como-andai/editel
+
+Ejercicio 2: https://www.tinkercad.com/things/1mksp7vcbUp-swanky-blad/editel
+
+Ejercicio 4: https://www.tinkercad.com/things/3PlAJSKy84G-cool-jaiks-trug
+
+Ejercicio 5: https://www.tinkercad.com/things/1mksp7vcbUp-swanky-blad
+
+#### Lavamanos
+tinkercad.com/things/acJ1JEF7QOP-lavamanos
+
+#### Trabajo Práctico 1
+Ejercicio 1, 2 y 3: https://www.tinkercad.com/things/iGbtAORpHfC-punto-1-2-y-3-
+
+Ejericio 4: https://www.tinkercad.com/things/3so4kY9VNCf-punto-4
+
+Ejercicio 5: https://www.tinkercad.com/things/1JbLHlpgtKo-punto-5
+
+Ejercicio 6: https://www.tinkercad.com/things/jLM52p30Ljq-punto-6
+
+Ejercicio 7: https://www.tinkercad.com/things/8T152TDjDvZ-punto-7
