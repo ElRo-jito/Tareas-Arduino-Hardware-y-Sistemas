@@ -1,0 +1,39 @@
+unsigned long tiempo1 = 0;
+unsigned long tiempo2 = 0;
+unsigned long tiempo1b = 0;
+unsigned long tiempo2b = 0;
+float timer = 4000;
+float timer2 = 1000;
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(11, OUTPUT);
+}
+
+void loop()
+{
+  tiempo1 = millis();
+  tiempo1b = millis();
+  led1();
+  led2();
+
+}
+void led1 () 
+{
+  
+if (tiempo1 - tiempo2 >= 2000 && tiempo1 - tiempo2 <= 4000) {
+   tiempo2 = tiempo1;  
+  digitalWrite(13, HIGH);
+}
+  else {  digitalWrite(13, LOW);}
+}
+
+void led2 () 
+{
+  if (tiempo1b - tiempo2b >= 1000 && tiempo1 - tiempo2 <= 3000) {
+   tiempo2b = tiempo1b;  
+  digitalWrite(11, HIGH);
+}
+  else {  digitalWrite(11, LOW);}
+
+}
