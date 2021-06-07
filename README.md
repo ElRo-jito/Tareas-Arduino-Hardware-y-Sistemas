@@ -11,6 +11,14 @@ https://www.tinkercad.com/things/liqlT8p0q2u-sizzling-sango-bombul/editel?sharec
 Ejercicio 4:
 https://www.tinkercad.com/things/3N6jbh1ZEbL-sizzling-snicket/editel?sharecode=MSryZewnEgQFLh5zZ5qaho7NM3EOF31tbmblnL_Ae78
 
+#### Retardos no Bloqueantes
+
+Ejercicio 3: https://www.tinkercad.com/things/jv9Xyna9j5c-punto-3
+
+Ejercicio 4: https://www.tinkercad.com/things/5DpizK8Fms5-punto-4
+
+Ejercicio 5: https://www.tinkercad.com/things/5sxL9Md8Fsx-punto-5
+
 ## Taller de Robótica III
 #### Repaso
 Ejercicio 1: 
