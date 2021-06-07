@@ -1,0 +1,15 @@
+long int timer=2000;
+unsigned long tiempo1 = 0;
+unsigned long tiempo2 = 0;
+
+void setup(){
+  Serial.begin(9600);
+}
+
+void loop(){
+  tiempo1 = millis();
+  if((tiempo1 - tiempo2) > timer){
+    tiempo2 = tiempo1;
+    Serial.println("Timer Activado");
+  }
+}
